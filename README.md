@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm 4dsboy16 and I'm programmer.</h2>
+<h2 align="left">Hi 👋! I'm 4dsboy16 and I'm a programmer.</h2>
 
 ###
 
